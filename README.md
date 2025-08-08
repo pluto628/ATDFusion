@@ -2,4 +2,4 @@
 
 The official implementation of the ATDFusion algorithm.
 
-The code is currently under organization and will be open-sourced within two weeks. Stay tuned!
+The code is currently under refinement and will be released as open source in the near future. Stay tuned!
