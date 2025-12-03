@@ -5,6 +5,13 @@ This is official Pytorch implementation of **"ATDFusion: Adapter-Tuned Dual-Bran
 
 ---
 
+## 📢 News
+
+* **[2025.12]** To demonstrate the **generalization capability** of ATDFusion, we conducted additional experiments on the **HECKTOR 2025** dataset. The pre-processed testing data (sliced from NIfTI to PNG format) is now available in this repository.
+    * *Note: For the full raw dataset, please apply via the [official HECKTOR 2025 website](https://hecktor25.grand-challenge.org/).*
+
+---
+
 ##  Requirements
 
 - Python >= 3.11  
