@@ -1,7 +1,7 @@
 
-# ATDFusion: Adapter-Tuned Dual-Branch Network for Medical Image Fusion
+# ATDFusion: Adapter-Tuned Dual-Branch Network for Multimodal Medical Image Fusion
 
-This is official Pytorch implementation of **"ATDFusion: Adapter-Tuned Dual-Branch Network for Medical Image Fusion"**  
+This is official Pytorch implementation of **"ATDFusion: Adapter-Tuned Dual-Branch Network for Multimodal Medical Image Fusion"**  
 
 ---
 
